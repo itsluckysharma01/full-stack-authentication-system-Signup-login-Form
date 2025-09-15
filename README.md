@@ -536,20 +536,6 @@ npm run build
 # - Or use Netlify CLI
 ```
 
-### Environment Variables for Production
-
-```env
-# Backend
-NODE_ENV=production
-JWT_SECRET=your_super_secure_secret
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/dbname
-
-# Frontend
-REACT_APP_API_URL=https://your-backend-api.herokuapp.com
-```
-
-</details>
-
 ---
 
 ## 🔒 Security Features
